@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 100px;
+    margin-bottom:  100px;
+    background-color: black;
+}
+
+.wrapper {
+    width: 100%;
+    padding: 25px;
+    background-color: lightblue;
+}
+
+.heading h4 {
+    font-size: 15px;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.heading h2 {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.DATA h4 {
+    margin-top: 50px;
+}
+
+.DATA ul {
+    list-style-type: none;
+    margin: 20px;
+    margin-left: 127px;
+}
+
+.DATA ul li {
+    padding: 10px;
+}
+
+.OBJECTIVE h4 {
+    margin-top: 50px
+}
+
+.OBJECTIVE p {
+    margin: 20px;
+    margin-left: 127px;
+}
+
+.EDUCATION h4 {
+    margin-top: 50px
+}
+
+.EDUCATION ul {
+    margin: 20px;
+    margin-left: 127px;
+}
+
+.EDUCATION ul li {
+    padding: 10px;
+}
+
+.WORK h4 {
+    margin-top: 50px
+}
+
+.WORK ul {
+    list-style-type: none;
+    margin: 20px;
+    margin-left: 127px;
+}
+
+.WORK ul li {
+    padding: 10px;
+}
+
+.TRAINING h4 {
+    margin-top: 50px
+}
+
+.TRAINING ul {
+    list-style-type: none;
+    margin: 20px;
+    margin-left: 127px;
+}
+
+.TRAINING ul li {
+    padding: 10px;
+}
+
+.Skills h4 {
+    margin-top: 50px
+}
+
+.Skills ul {
+    margin: 20px;
+    margin-left: 127px;
+}
+
+.Skills ul li {
+    padding: 10px;
+}
+
+.hobbies h4 {
+    margin-top: 50px
+}
+
+.hobbies p {
+    margin: 20px;
+    margin-left: 127px
+}
+
+.ref h4 {
+    margin-top: 50px
+}
+
+.ref ul {
+    margin: 20px;
+    margin-left: 127px
+}
+
+.ref ul li {
+    padding: 10px;
+}
